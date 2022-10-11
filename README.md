@@ -1,2 +1,2 @@
 # dipika-karpe
-This is ny first respository
+This is my first respository
